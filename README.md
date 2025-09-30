@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salonisaboo&label=Profile%20views&color=0e75b6&style=flat" alt="salonisaboo" /> </p>
 
-- 🔭 I'm currently working as a Backend Developer Intern at Fonix Technologies
+- 🔭 Computer Science Undergrad passionate about backend development|Ex-Backend Intern @ Fonix Technologies & PERFORMANT
 
 - 🌱 I’m currently learning **SpringBoot, DSA, Python**
 
