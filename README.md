@@ -1,4 +1,15 @@
 ![banner](https://github.com/salonisaboo/salonisaboo/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+
+<!-- 🌟 Custom Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00A8FF&center=true&vCenter=true&lines=Hi+I'm+Saloni+Saboo+👋;Full+Stack+Developer;Backend+Developer;Spring+Boot+%7C+NodeJS+%7C+React;Welcome+to+my+GitHub!">
+</p>
+
+<!-- 🌗 Dark/Light Mode Toggle Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Dark%20|%20Light-7D4F50?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Saloni Saboo</h1>
 <h3 align="center">Full Stack Developer | Open Source Contributor | Seeking New Opportunities</h3>
 
@@ -8,17 +19,17 @@
   <img src="https://komarev.com/ghpvc/?username=salonisaboo&label=Profile%20views&color=0e75b6&style=flat" alt="salonisaboo" /> 
 </p>
 
-- 🔭 **Ex-Backend Intern** at Fonix Technologies & PERFORMANT, specializing in building robust and scalable backend systems.
-- 💼 **Open to Work:** I am actively seeking new **Full Stack/Backend Development opportunities**.
-- 🌱 **Learning Focus:** I am currently strengthening my **Data Structures and Algorithms (DSA)** skills.
-- ⚙️ **View My Portfolio:** [Link to your Portfolio Here] (We will create this next!)
-- 📫 **Reach Me:** Feel free to connect via email at **salonisaboo0972@gmail.com** or LinkedIn.
-- 📄 **Resume/CV:** [Link to your Resume/CV Here]
+- 🔭 **Ex-Backend Intern** at Fonix Technologies & PERFORMANT  
+- 💼 Actively seeking **Full Stack / Backend Developer** roles  
+- 🌱 Currently improving **DSA**  
+- 📫 Email: **salonisaboo0972@gmail.com**  
+- 📄 Resume: *Add your resume link here*
 
 <br>
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
+
 <a href="https://www.linkedin.com/in/saloni-saboo-324613251/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
@@ -34,6 +45,7 @@
 <a href="https://www.leetcode.com/saloni_saboo927" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
+
 </p>
 
 <br>
@@ -72,3 +84,23 @@
 </p>
 
 <hr>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=salonisaboo&show_icons=true&theme=tokyonight" height="160px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonisaboo&theme=tokyonight" height="160px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonisaboo&layout=compact&theme=tokyonight" height="160px" />
+
+</div>
+
+<br><br>
+
+## ✨ Thank You for Visiting!
+
+<p align="center">If you like my work, consider ⭐ starring my repositories!</p>
