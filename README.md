@@ -88,20 +88,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=salonisaboo&show_icons=true&theme=tokyonight" height="160px"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salonisaboo&theme=tokyonight" height="160px"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salonisaboo&layout=compact&theme=tokyonight" height="160px"/>
-
-</div>
-
----
-
 ## ✨ Thank You for Visiting!
 
 <p align="center">If you like my work, consider ⭐ starring my repositories!</p>
