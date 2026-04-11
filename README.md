@@ -19,7 +19,7 @@
 
 ---
 
-- **Open to Work:** Actively looking for exciting opportunities. Feel free to reach out via LinkedIn or Email 
+- **Open to Work:** Currently working at Ambrstack as Software Engineering Intern. Feel free to reach out via LinkedIn or Email 
 - **All my projects:** Available right here on GitHub 
 - **Reach me:** **salonisaboo0972@gmail.com**  
 - **Resume:** https://drive.google.com/file/d/1XWKS-lsc6FBz-kkDdqxOJB4ci4fe3G0B/view?usp=sharing 
